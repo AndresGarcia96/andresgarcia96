@@ -12,6 +12,18 @@ Andres Garcia</a> de Colombia 🇨🇴</h1>
 
 - 💬 Preguntame o hablemos acerca de **Diseño UI/UX**
 
+- 🧑‍💻 Tecnologias usadas:
+
+  - JavaScript
+  - React
+  - Redux
+  - Node JS
+  - Express
+  - Sequelize
+  - CSS
+  - HTML
+  - Git/GitHub
+
 - 📫 Escríbeme o contáctame: **andresfgarciac96@gmail.com**
 
 - 📄 Mira mi Hoja de Vida: <a href="https://github.com/AndresGarcia96/aboutme/blob/main/HOJA%20DE%20VIDA%202023%20-%20ENVIAR.pdf" target="blank">CV Resume</a>
