@@ -10,13 +10,13 @@ Andres Garcia</a> de Colombia 🇨🇴</h1>
 
 - 🤝 Estoy disponible para trabajar como Freelancer.
 
-- 💬 Ask me about **Diseño UI/UX**
+- 💬 Preguntame o hablemos acerca de **Diseño UI/UX**
 
-- 📫 How to reach me **andresfgarciac96@gmail.com**
+- 📫 Escríbeme o contáctame: **andresfgarciac96@gmail.com**
 
-- 📄 Know about my experiences <a href="https://github.com/AndresGarcia96/aboutme/blob/main/HOJA%20DE%20VIDA%202023%20-%20ENVIAR.pdf" target="blank">Resume</a>
+- 📄 Mira mi Hoja de Vida: <a href="https://github.com/AndresGarcia96/aboutme/blob/main/HOJA%20DE%20VIDA%202023%20-%20ENVIAR.pdf" target="blank">CV Resume</a>
 <br/>
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Conecta conmigo 🤝 </h3>
 
 <p align="center">
 
