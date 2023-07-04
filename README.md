@@ -1,8 +1,10 @@
 <h1 align="center">Hola 👋, yo soy <a href="https://www.linkedin.com/in/andr%C3%A9s-felipe-garcia-castro-afgc96/" target="blank">
 Andres Garcia</a> de Colombia 🇨🇴</h1>
-<h3 align="center">Soy Diseñador Gráfico con más de 7 años de experiencia trabajando en empresas finales. Me he especializado en desarrollo de imagen corporativa, diseño de material publicitario, diseño para piezas de marketing online.</h3>
+<h3 align="center">Soy un profesional apasionado de la tecnología, comprometido con el trabajo en equipo y la responsabilidad. Siempre estoy buscando aprender y crecer, mientras mantengo una actitud respetuosa y colaborativa.</h3>
 
-<h3 align="center">Recientemente egresado de la carrera de Desarrollo Web Full Stack en bootcamp (Soy Henry); estoy en búsqueda de mi primera experiencia laboral en el mundo del desarrollo de software.</h3>
+<h3 align="center">Recientemente graduado de bootcamp Soy Henry en la carrera de Desarrollo Web Full Stack.
+
+Soy Diseñador Gráfico con más de 7 años de experiencia trabajando en empresas finales. Me he especializado en desarrollo de imagen corporativa, diseño de material publicitario, diseño para piezas de marketing online.</h3>
 <br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
