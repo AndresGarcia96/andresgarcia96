@@ -2,9 +2,9 @@
 Andres Garcia</a> de Colombia 🇨🇴</h1>
 <h3 align="center">Soy un profesional apasionado de la tecnología, comprometido con el trabajo en equipo y la responsabilidad. Siempre estoy buscando aprender y crecer, mientras mantengo una actitud respetuosa y colaborativa.</h3>
 
-<h3 align="center">Recientemente graduado de bootcamp Soy Henry en la carrera de Desarrollo Web Full Stack.
+<h3 align="center">Recientemente graduado de bootcamp Soy Henry en la carrera de Desarrollo Web Full Stack.</h3>
 
-Soy Diseñador Gráfico con más de 7 años de experiencia trabajando en empresas finales. Me he especializado en desarrollo de imagen corporativa, diseño de material publicitario, diseño para piezas de marketing online.</h3>
+<h3>Soy Diseñador Gráfico con más de 7 años de experiencia trabajando en empresas finales. Me he especializado en desarrollo de imagen corporativa, diseño de material publicitario, diseño para piezas de marketing online.</h3>
 <br/>
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
