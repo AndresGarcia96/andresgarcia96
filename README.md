@@ -17,10 +17,13 @@ Andres Garcia</a> de Colombia 🇨🇴</h1>
 - 🧑‍💻 Tecnologias usadas:
 
   - JavaScript
+  - TypeScript
   - React
   - Redux
   - Node JS
   - Express
+  - Dart
+  - Flutter
   - Sequelize
   - CSS
   - HTML
