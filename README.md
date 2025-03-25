@@ -19,12 +19,18 @@ Andres Garcia</a> de Colombia 🇨🇴</h1>
   - JavaScript
   - TypeScript
   - React
+  - Nextjs
   - Redux
+  - Ant Design
+  - Material UI
   - Node JS
   - Express
+  - Nestjs
   - Dart
   - Flutter
   - Sequelize
+  - SQL
+  - Postgres
   - CSS
   - HTML
   - Git/GitHub
